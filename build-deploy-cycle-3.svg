@@ -76,7 +76,7 @@
 			<path d="M17.88 2.55 C19.66 4.04, 21.19 6.7, 21.6 8.99 C22 11.29, 21.47 14.3, 20.3 16.32 C19.14 18.34, 16.79 20.31, 14.6 21.11 C12.41 21.9, 9.35 21.9, 7.16 21.11 C4.97 20.31, 2.62 18.34, 1.46 16.32 C0.29 14.3, -0.24 11.29, 0.17 8.99 C0.57 6.7, 2.1 4.04, 3.89 2.55 C5.67 1.05, 8.55 0, 10.88 0 C13.21 0, 16.09 1.05, 17.88 2.55" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 		<g transform="translate(502.9915008544922 10) rotate(0 82 12)">
-			<text x="0" y="20" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1864ab" text-anchor="start" style="white-space: pre;" direction="ltr">BUILD &amp; DEPLOY</text>
+			<text x="0" y="20" font-family="Fira Code, Cascadia, Segoe UI Emoji" font-size="20px" fill="#1864ab" text-anchor="start" style="white-space: pre;" direction="ltr">BUILD &amp; DEPLOY</text>
 		</g>
 	</g>
 	<g transform="translate(523.3729095458984 379.42547607421875) rotate(0 66 10)">
